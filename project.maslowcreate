@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule - Rotate and Move",
-            "x": 839,
-            "y": 33,
+            "x": 820,
+            "y": 86,
             "uniqueID": 742531,
             "ioValues": [
                 {
@@ -138,26 +138,6 @@
                     "ap1ID": 650928
                 }
             ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 892,
-            "y": 270,
-            "uniqueID": 490367,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1829,
-                    "y": 244.5,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [],
             "fileTypeVersion": 1
         },
         {
@@ -301,8 +281,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule - Rotate and Move",
-                    "x": 839,
-                    "y": 33,
+                    "x": 820,
+                    "y": 86,
                     "uniqueID": 742531,
                     "ioValues": [
                         {
@@ -310,14 +290,6 @@
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 892,
-                    "y": 270,
-                    "uniqueID": 490367,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
