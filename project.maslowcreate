@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule - Rotate and Move",
-            "x": 820,
-            "y": 80,
+            "x": 839,
+            "y": 33,
             "uniqueID": 742531,
             "ioValues": [
                 {
@@ -281,8 +281,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule - Rotate and Move",
-                    "x": 820,
-                    "y": 80,
+                    "x": 839,
+                    "y": 33,
                     "uniqueID": 742531,
                     "ioValues": [
                         {
