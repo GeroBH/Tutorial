@@ -182,8 +182,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant - Radius",
-                    "x": 72,
-                    "y": 302,
+                    "x": 74,
+                    "y": 305,
                     "uniqueID": 832924,
                     "ioValues": [
                         {
@@ -235,7 +235,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 15
                         }
                     ]
                 },
@@ -264,8 +264,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 698,
-                    "y": 196,
+                    "x": 697,
+                    "y": 191,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
